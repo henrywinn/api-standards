@@ -863,7 +863,7 @@ Following is a brief description of the URI specific naming convention guideline
 
 **Formal Definition:**
 
-|Term|Defiition|
+|Term|Definition|
 |---|---|
 |URI|[end-point] '**/**' resource-path ['**?**'query]|
 |end-point|[scheme "**://**"][ host ['**:**' port]]|
